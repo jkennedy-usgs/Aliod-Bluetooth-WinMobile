@@ -1,0 +1,9 @@
+Bug List
+
+10/17/2008
+
+
+Intermittent error when power off/power on
+	-only when serial port is open at power off
+	-IO Exception at System.IO.Ports.SerialStream.WinIOError()
+
