@@ -1,3 +1,4 @@
+![Screenshot](/Screenshot.png?raw=true "Screenshot")![Bluetooth Dongle](/LandRgravimeter.png?raw=true "Bluetooth Dongle")
 # Aliod-Bluetooth-WinMobile
 Windows Mobile (.Net compact framework) program to communicate with Aliod-equipped L&amp;R gravity meter
 
